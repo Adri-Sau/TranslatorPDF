@@ -22,4 +22,4 @@ version = "0.1.0"
 where = ["src"]
 
 [project.scripts]
-translate = "cli.entry:main"
+translate = "cli.cmd:translate"
